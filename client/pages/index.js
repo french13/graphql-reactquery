@@ -1,6 +1,12 @@
+import MessageList from "../components/MessageList"
+
+
 const Home = ()=>{
     return (
-        <div>안녕하세요</div>
+        <>
+        <h1>simple sns</h1>
+        <MessageList/>
+        </>
     )
 }
 
