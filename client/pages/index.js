@@ -1,7 +1,7 @@
 import MessageList from "../components/MessageList";
 
 const Home = () => {
-  return (
+  return (                                                 
     <>
       <div id="contact-inquiry">
         문의구분 *{" "}
@@ -19,3 +19,4 @@ const Home = () => {
 };
 
 export default Home;
+ 
